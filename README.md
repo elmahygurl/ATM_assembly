@@ -11,3 +11,7 @@ The output is one bit (0/1) that means (denied/allowed).
 ![image](https://github.com/elmahygurl/ATM_assembly/assets/97133077/0d038bf2-f205-43cf-a7bf-16597a16a588)
 ![image](https://github.com/elmahygurl/ATM_assembly/assets/97133077/ba700393-9e4e-474e-8892-b838017ce1bb)
 ![image](https://github.com/elmahygurl/ATM_assembly/assets/97133077/d2b914f6-8dde-4653-bc32-bf1ca25786d6)
+## Comments:
+•	Prints “Access denied” when a wrong card number has been entered.
+•	Prints “Incorrect Passcode” when the passcode entered does not match the card number that was previously entered.
+•	SI Register is used as index.
