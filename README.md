@@ -7,7 +7,7 @@ memory. Then write a program for card authorization.
 The inputs of the program are the card number and the password.
 The output is one bit (0/1) that means (denied/allowed).
 
-##Sample Runs
+## Sample Runs
 ![image](https://github.com/elmahygurl/ATM_assembly/assets/97133077/0d038bf2-f205-43cf-a7bf-16597a16a588)
 ![image](https://github.com/elmahygurl/ATM_assembly/assets/97133077/ba700393-9e4e-474e-8892-b838017ce1bb)
 ![image](https://github.com/elmahygurl/ATM_assembly/assets/97133077/d2b914f6-8dde-4653-bc32-bf1ca25786d6)
